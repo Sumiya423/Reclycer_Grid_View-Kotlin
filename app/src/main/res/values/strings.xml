@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Kotlin - RecycleView, GridView</string>
+
+    <string-array name="name">
+        <item>Rahim</item>
+        <item>karim</item>
+        <item>Akhi</item>
+        <item>Jol</item>
+        <item>Sajal</item>
+        <item>Pakhi</item>
+        <item>Rakhi</item>
+        <item>Mahim</item>
+        <item>Sharmin</item>
+        <item>Mehera</item>
+        <item>Safoan</item>
+    </string-array>
+
+    <string-array name="number">
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+        <item>01627897</item>
+    </string-array>
+
+    <string-array name="city_name">
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Barishal</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Khulna</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+        <item>Sri Mangal</item>
+        <item>Bhola</item>
+        <item>Pirojpur</item>
+        <item>Bagerhat</item>
+        <item>Chandpur</item>
+        <item>Bandarban</item>
+        <item>Coxs Bazar</item>
+        <item>Jessore</item>
+        <item>Kuakata</item>
+        <item>Mymensingh</item>
+        <item>Natore</item>
+        <item>Netrokona</item>
+        <item>Rangamati</item>
+        <item>Shundarban</item>
+
+    </string-array>
+
+    <string-array name="country">
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+    </string-array>
+
+</resources>
